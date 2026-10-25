@@ -1,0 +1,8 @@
+url: https://github.com/aldveylor/dsh-intellisense
+name: aldveylor/dsh-intellisense
+category: tools
+description:
+  en: A namespace management tool for toolsets that supports automatic discovery and integration, designed to help reduce token consumption.
+  zh: 一个用于管理工具集的命名空间管理工具，支持自动发现与集成，用于节省token的消耗
+icon: https://media.githubusercontent.com/media/aldveylor/dsh-intellisense/refs/heads/master/docs/icon.png
+
